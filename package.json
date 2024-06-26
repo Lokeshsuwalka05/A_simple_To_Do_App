@@ -4,6 +4,7 @@
   "description": "",
   "main": "todoServer.js",
   "scripts": {
+    "start":"node todoServer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
